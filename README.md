@@ -44,6 +44,14 @@ A powerful Python-based web scraper designed to extract product reviews and rati
      ```bash
      pip install -r requirements.txt
      ```
+4. **if access blocked reinstall :**
+     ```bash
+     pip install undetected-chromedriver beautifulsoup4
+     ```
+4. **Running:**
+     ```bash
+     python test_g2.py
+     ```
 
 ### Running the Scraper
 
