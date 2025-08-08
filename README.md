@@ -1,37 +1,51 @@
-#  G2 Review Scraper
+# G2 Review Scraper
 
-A robust Python-based scraper to extract product reviews and ratings from [G2.com](https://www.g2.com) using `Selenium` and `undetected-chromedriver`. Designed to bypass anti-bot detection and save reviews into structured JSON files.
-
----
-
-## =====
-
-- Scrapes real user reviews from G2
-- Handles multiple pages 
-- Extracts:
-  - Review title
-  - Review content
-  - Rating
-  - Review date
-- JSON output saved locally
+A powerful Python-based web scraper designed to extract product reviews and ratings from [G2.com](https://www.g2.com). Utilizing `Selenium` and `undetected-chromedriver`, this tool effectively bypasses anti-bot detection and saves the extracted reviews in structured JSON format.
 
 ---
-## while running you must Activate your virtual environment:
-source .venv/bin/activate
 
-## for running g2 scraper we has to run 
-python test_g2.py
+## Features
 
+- Scrapes authentic user reviews from G2
+- Supports pagination for comprehensive data collection
+- Extracts the following information:
+    - Review Title
+    - Review Content
+    - Rating
+    - Review Date
+- Saves output in JSON format locally
 
-## Requirements
+---
+## I’ve built an interface that allows users to view reviews fetched by our scraper, organized by company name. The reviews are stored in a structured JSON file format.Run this and view the interface
+- index.html 
 
-- Python 3.8+
-- Google Chrome (latest)
+## Getting Started
+
+### Prerequisites
+
+- Python 3.8 or higher
+- Google Chrome (latest version)
 - [ChromeDriver](https://chromedriver.chromium.org/downloads) compatible with your Chrome version
 
-Install dependencies:
+### Setup
 
-```bash
-pip install -r requirements.txt
+1. **Clone the repository:**
+     ```bash
+     git clone <repository-url>
+     cd pulse_scraper
+     ```
 
+2. **Activate your virtual environment:**
+     ```bash
+     source .venv/bin/activate
+     ```
+
+3. **Install dependencies:**
+     ```bash
+     pip install -r requirements.txt
+     ```
+
+### Running the Scraper
+
+To run the G2 review scraper, execute the following command:
 

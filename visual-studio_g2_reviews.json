@@ -1,0 +1,352 @@
+[
+  {
+    "title": "\"Powerful IDE for Professional Development, but Heavy on Resources.\"",
+    "body": "5/5What do you like best about Visual Studio?Visual Studio offers a complete and professional development environment with powerful tools like IntelliSense, live debugging, built-in Git integration, and seamless Azure deployment. I especially appreciate how it streamlines complex workflows — from writing code to testing and deploying — all in one place. Its support for multiple languages and frameworks makes it incredibly versatile for full-stack development. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?Visual Studio can be resource-intensive, especially on older machines — it tends to slow down or lag with larger projects. The initial setup and installation process is also quite lengthy. Additionally, some features are locked behind higher-tier licenses, which can be limiting for smaller teams or individual developers. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Visual Studio streamlines the entire development lifecycle — from writing code to debugging and deploying. It helps me manage large codebases efficiently with powerful IntelliSense, code navigation, and integrated testing tools. Having everything in one place improves productivity and reduces the need to switch between tools, which saves time and reduces errors. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "Eashan M.",
+    "date": "2025-07-25"
+  },
+  {
+    "title": "\"\"Mastering My Projects with Visual Studio — 2 Years of Django to Debugging\"\"",
+    "body": "4.5/5What do you like best about Visual Studio?Visual Studio makes coding much easier with its smart IntelliSense feature. It automatically suggests code, helps find errors quickly, and supports many programming languages.\n I've been using Visual Studio from last 2 years, and its extensions make it the best for coding. You can easily add tools that suit your development needs. The reusability of code becomes easier, and it shows errors in real-time, which saves a lot of debugging time. The best part is that you can do everything — from frontend coding to backend development and even database management — all in one place. It's a complete full-stack solution for developers. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?The startup time is often slow, especially when multiple extensions are installed. The unpaid version of Blackbox isn’t very effective and lacks many useful features. Also, sometimes two different extensions conflict with each other, causing functionality issues.\nAlso, multiple windows and tabs often make it complex to use, especially when creating or managing new files. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Visual Studio solves the problem of managing a full-stack development workflow by bringing everything into one clean, powerful interface. From writing frontend code to building complex Django-based backend systems, I can handle everything in one place.Its support for GitHub makes version control incredibly easy — I can clone repos, manage branches, commit, push, pull, and even resolve merge conflicts directly within the IDE. This integration saves me from constantly switching to terminal or external Git tools.\nThe best part is: I don't need to juggle multiple apps. From writing code to debugging to GitHub collaboration — everything is smooth, fast, and productive. It's a huge time-saver and makes development much more professional and enjoyable. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "4.5",
+    "author": "Sameer R.",
+    "date": "2025-07-17"
+  },
+  {
+    "title": "\"Great IDE for building and debugging code smoothly\"",
+    "body": "5/5What do you like best about Visual Studio?I like how it gives intelligent code suggestions, built-in debugging tools, and project templates. The interface feels clean and professional. I also like that I can manage everything from writing code to running and testing it in one place. It's very beginner-friendly if you're into Windows development or .NET. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?The software is quite heavy and takes time to load, especially on systems with lower specs. Also, it sometimes lags when working on larger projects. It needs a strong system to work smoothly, which can be tough for students with basic laptops. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Visual Studio helps me write, test, and debug code all in one place. It saves a lot of time with IntelliSense, auto-complete, and project templates. As a student, it helps me focus more on logic and less on setting up environments or tools. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "Prafful K.",
+    "date": "2025-07-22"
+  },
+  {
+    "title": "\"Boosts Productivity with Handy Features\"",
+    "body": "4/5What do you like best about Visual Studio?I love Visual Studio's color formatting feature that highlights code lines and functions, making debugging easier and saving time. The variety of extensions, plugins, and a live server for simulating web pages are invaluable tools for my programming needs. The platform makes my work simpler, more efficient, and up-to-date with the latest updates and documentation. I appreciate the support it provides with automation tools like GitHub Copilot, which reduces workload by easing code writing and debugging. Visual Studio is a handy tool that significantly boosts my productivity and stability in less time. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?I think Visual Studio could benefit from offering more user-customizable themes, plugins, and general customizations to better cater to individual user preferences. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?I find Visual Studio enhances my coding experience with features like color formatting, error highlighting, and numerous extensions. It simplifies debugging, improves productivity, and integrates AI tools for automation, making my programming tasks more efficient and manageable. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "4.0",
+    "author": "Nikhil J.",
+    "date": "2025-08-01"
+  },
+  {
+    "title": "\"Great all-in-one IDE with tools that make coding easier\"",
+    "body": "4.5/5What do you like best about Visual Studio?- The debugger is very useful, I can step through code and watch variables change instead of printing stuff everywhere just to see what’s going on.\n- IntelliSense catches my typos and reminds me of method parameters when my brain blanks out, which happens more often than I’d like to admit.\n- Everything I need is built-in. I can handle Git, manage packages, and run tests without juggling multiple tools.\n- Renaming across the whole solution is easy, the refactor tool actually finds every usage and updates it.\n- The extension marketplace has come through for me more than once. There’s usually a plugin for whatever odd tech I’m dealing with that day. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?- Large projects slow it down a lot and memory usage spikes, so the whole IDE starts lagging.\n- It takes a huge amount of disk space just to install, way more than any other tool I use. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?It brings everything needed into one place, so there's no jumping between different apps for coding, debugging, testing, or Git. it makes it easier to stay focused. The debugger helps find bugs faster without flooding code with print statements. Refactoring tools save time when making big changes. And with the right extensions, it fits into almost any project or workflow. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "4.5",
+    "author": "Islam R.",
+    "date": "2025-07-31"
+  },
+  {
+    "title": "\"An essential tool for modern developers\"",
+    "body": "5/5What do you like best about Visual Studio?What attracts me most to Visual Studio Code is its lightness and the vast number of available extensions, which allow for complete customization of the development environment. The native integration with Git, the intelligent IntelliSense, support for multiple languages, and the intuitive interface make the coding experience much more productive. Additionally, the active community ensures the tool's constant evolution. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?Although VS Code is extremely efficient, when many extensions are installed, it can become slow or crash, especially on machines with fewer resources. Another point is that for very large projects, sometimes more robust IDEs can offer better performance in certain languages, such as Java or C++. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Productivity: Lightness and speed for editing code compared to heavy IDEs.Customization: Free extensions (e.g., Python, JavaScript, SQL) that adapt the editor to my needs.Cross-platform: Works on Windows, macOS, and Linux at no cost.Native integration with Git: Facilitates code versioning. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "Rodrigo F.",
+    "date": "2025-05-13"
+  },
+  {
+    "title": "\"Visual Studio Code: The Ultimate IDE for All Geeks\"",
+    "body": "4.5/5What do you like best about Visual Studio?Visual Studio Code has amazing extension support, and it comes with tons of awesome features that other IDEs just don’t offer. It’s super easy to customize, and the minimalistic settings UI is just perfect—I’d rate it 100%! It’s clean, beginner-friendly, and easy to learn. Plus, with such a wide variety of extensions, it’s got everything you could ever need for coding. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?To be completely honest, I haven’t really felt like anything major is missing in VS Code. I have a pretty good machine, and I haven’t faced any significant issues like performance problems or annoying bugs. The only thing that bothers me a little is that I sometimes have to log in multiple times to sync my settings. It’s a minor inconvenience, but I’m sure it’ll be fixed in future updates. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Since I’m currently unemployed, I’ve been keeping myself busy by working on random cool projects. It’s a fun way to stay productive and keep learning new things. There’s not much else to share beyond that for now. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "4.5",
+    "author": "Toba Toba P.",
+    "date": "2025-04-29"
+  },
+  {
+    "title": "\"Friend of developer is Visual Studio\"",
+    "body": "4.5/5What do you like best about Visual Studio?Visual Studio is one of the most popular and powerful integrated development environments (IDEs), and there's a lot to like about it. First and foremost, Visual Studio’s IntelliSense is incredibly helpful. Robust Debugging Tools. Seamless Integration with Azure and Git.Multi-Platform Development\nWith .NET MAUI, Blazor, and support for Xamarin, Visual Studio enables cross-platform development from a single codebase. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?While Visual Studio is a powerful and feature-rich IDE, it’s not without its drawbacks. Here are some common criticisms and pain points:\n1.It consumes a lot of memory and CPU, especially with large solutions.\n2.Installing Visual Studio, particularly with multiple workloads (e.g., .NET, C++, MAUI), can take a long time.\n3. Updates are frequent and often large, and sometimes they disrupt workflow with unexpected changes or regressions.\n4. Platform-Specific Limitations, for mac it's stopped supporting. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Visual Studio solves a wide range of development challenges by offering an integrated, powerful, and flexible environment for building software. Here's how that benefits developers like :\n1.All-in-One Development Environment\nProblem Solved: Switching between tools for coding, debugging, testing, and deployment wastes time and increases errors.\nBenefit: Visual Studio unifies everything in one IDE—code editor, designer, debugger, profiler, Git integration, unit test runner, and deployment tools—so you stay productive and focused.\n\n2.Streamlining .NET and Cross-Platform App Development\nProblem Solved: Managing multiple toolchains for web, desktop, mobile, and cloud development is complex.\nBenefit: With support for .NET MAUI, Blazor, ASP.NET, WPF, WinForms, Azure, and more, Visual Studio enables you to build full-stack, cross-platform applications from a single codebase—ideal for teams targeting multiple platforms.\n\n3. Debugging Complex Applications.\n4. Supporting Testing and Quality Assurance. Visual Studio includes a Test Explorer, code coverage tools, and profilers, all helping you ensure code quality without needing external tools.\n5. Built-in Git/GitHub/Azure DevOps integration, Live Share, and Azure deployment tools support efficient collaboration and smooth DevOps pipelines. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "4.5",
+    "author": "Jayanta S.",
+    "date": "2025-05-23"
+  },
+  {
+    "title": "\"Using it for years, and i'll keep using it\"",
+    "body": "3.5/5What do you like best about Visual Studio?I use it because of its clarity and its helpful IDE. If you want, you can change to a dark mode. I use 5 days a week and, clearly is the best development enviroment you can use Review collected by and hosted on G2.com.What do you dislike about Visual Studio?It uses a lot of RAM memory, so, you would have at least 16 GB for an perfect use, but, with modern computers it is not a problem Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?I use it for any of the solutions my company has Review collected by and hosted on G2.com.\nShow More",
+    "rating": "3.5",
+    "author": "Jorge Y.",
+    "date": "2025-07-29"
+  },
+  {
+    "title": "\"vsreview\"",
+    "body": "4/5What do you like best about Visual Studio?the best thing is that it can almost have all the ide of different types of programming language which make it easier for the user and then we just have to download some other additional file require for the project. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?at start it difficult to understand it function and get difficult to find or download some ide which needed along that it less support c# Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?the thing of giving advise of what will come next and also guiding in every program Review collected by and hosted on G2.com.\nShow More",
+    "rating": "4.0",
+    "author": "kuldeep s.",
+    "date": "2025-07-17"
+  },
+  {
+    "title": "\"VS evaluation for modern software development - tools, extensions and workflows.\"",
+    "body": "5/5What do you like best about Visual Studio?Coding using Visual studio is light weight with quick startup, requires less memory and ideal for small and large code bases. It runs smoothly on multiple OS such as windows, linux etc. It has rich extensions ecosystems that supports 1000's of extensions and managing them is easy. It is open source having real time collaboration. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?It has performance issue when working on large codebases while having many number of extensions. Because of these third-party extensions we may face conflict and issues with stability, maintanence. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?It is fully free and open source software. It provides frequent updates and community involvement is good. It is fully customisable UI. Provides support for syntax highlighting, icons and also layouts Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "Divyarani D.",
+    "date": "2025-07-24"
+  },
+  {
+    "title": "\"Review on Visual Studio\"",
+    "body": "3.5/5What do you like best about Visual Studio?What I like best about Visual Studio is its powerful IntelliSense, which makes coding faster and easier with real-time code suggestions. The integrated debugger is incredibly helpful for identifying and fixing issues efficiently. I appreciate the seamless Git integration for version control. Visual Studio's support for multiple programming languages and project types makes it versatile. The user interface is clean, customizable, and beginner-friendly. Its vast extension marketplace allows developers to tailor the IDE to their workflow. Built-in tools like Live Share enable real-time collaboration. Performance profiling and diagnostics tools are also very useful. It supports Azure integration out of the box. Overall, it’s a robust and comprehensive development environment. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?What I dislike about Visual Studio is that it can be quite heavy and slow to load, especially on older machines. The installation process is lengthy and requires significant disk space. Sometimes, it feels bloated with too many features that aren't always needed. It can occasionally crash or freeze during large projects. Updates are frequent and can disrupt workflow. The licensing for the full version is expensive for individual developers. Its performance with large solutions can degrade over time. Customizing settings can be overwhelming for beginners. Some extensions cause instability. Despite its power, it’s not always the most lightweight or responsive IDE. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?isual Studio solves the problem of managing complex software development by providing an all-in-one integrated development environment. It combines code editing, debugging, testing, and version control in a single platform, which improves productivity and reduces context switching. With features like IntelliSense and code navigation, it helps me write accurate, efficient code faster. The built-in debugger simplifies finding and fixing bugs, saving valuable time. Integration with Git and Azure streamlines deployment and collaboration. Its support for multiple languages and project types allows me to work on diverse applications without changing tools. Overall, it helps me build high-quality software more efficiently. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "3.5",
+    "author": "Nirvik S.",
+    "date": "2025-05-05"
+  },
+  {
+    "title": "\"Azure Developer Tools: Easy to Use, but Can Be Overwhelming\"",
+    "body": "4/5What do you like best about Microsoft Azure Developer Tools?Azure Developer Tools provide a comprehensive and integrated environment with support for cloud app development, offering features like seamless deployment, debugging, and scalability that make managing large-scale applications easy. Review collected by and hosted on G2.com.What do you dislike about Microsoft Azure Developer Tools?The learning curve can be steep for newcomers, and navigating through the many services and configurations can sometimes feel overwhelming, especially for smaller teams Review collected by and hosted on G2.com.What problems is Microsoft Azure Developer Tools solving and how is that benefiting you?Microsoft Azure Developer Tools solve the problem of managing and deploying scalable cloud applications by providing integrated services for development, testing, and monitoring. This has benefited us by streamlining our workflow, allowing faster deployment cycles and improved system reliability Review collected by and hosted on G2.com.\nShow More",
+    "rating": "4.0",
+    "author": "Roberto V.",
+    "date": "2025-06-06"
+  },
+  {
+    "title": "\"Great IDE\"",
+    "body": "5/5What do you like best about Visual Studio?Variety of Menu options, great environment for developement Review collected by and hosted on G2.com.What do you dislike about Visual Studio?Require a bit more space and can be slow sometimes as it put load on the system Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?As a developer it already configures a lot of things for me with align perfectly with .NET libraries and ton of other features like auto suggest, ability to remember and suggest code/shortcuts, great IDE for development. If I have to build Restful APIs it already sets up a lot of things, files for me which are very important and I don't even have to look as I know it will take care for me. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "Mohammad Mateen M.",
+    "date": "2025-07-29"
+  },
+  {
+    "title": "\"The most suitable IDE for developers, particularly those working with JavaScript and TypeScript.\"",
+    "body": "5/5What do you like best about Visual Studio?This IDE stands out as an exceptional tool, offering a comprehensive suite of features and numerous extensions that enhance productivity. Its ability to seamlessly transition between functions and provide a streamlined user experience is unparalleled. I wholeheartedly recommend this IDE for its exceptional capabilities. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?There is nothing! But faced sometimes that typescript is not suggesting properly then needs to restart the tsc server. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?It's so much faster and ease to use. For any kind of faster navigations, shortcuts and even for tunneling, remote connection or pair programming, It's a gem! Also, It has a huge collection of extensions. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "Kayumuzzaman R.",
+    "date": "2025-07-26"
+  },
+  {
+    "title": "\"it best for the web developer, for fulstack it good, the packages in the visual studio are amazing\"",
+    "body": "5/5What do you like best about Visual Studio?i like multi tab system , i am work on multiple file at single time Review collected by and hosted on G2.com.What do you dislike about Visual Studio?it takes lot of ram that i one thing that i dont like Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?it helps to write clean code, the packages like prettier help me to solve the problem of formatting the code. the ui is also too good. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "Aashish G.",
+    "date": "2025-08-01"
+  },
+  {
+    "title": "\"My go-to IDE is Visual Studio\"",
+    "body": "4.5/5What do you like best about Visual Studio?The UI is very clean and things are easy to find. It auto-suggests extensions to be installed, making the platform flexible for any type of file ranging from Python code files and python notebooks to even PDFs. I use it on a regular basis for my work as well as personal projects. Installation of new packages is seamless as they get integrated easily without much manual coding. Code implementation is very easy due to the suggestions that come up when typing. The variable names are readily available in dropdown and the highlighting of errors before even code compilation saves so much time for the user. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?While there is an option to either open a file or a folder, it is sometimes difficult to open two different project folders simultaneously. The option is not readily available so most of the times I have to re-open the other project folder while closing the current one. Customer support is not very helpful as it is hard to just navigate to it. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?I can use a single platform for multiple language projects. Packages needed for every project is being suggested on the go saving me the time to look up such details and manual installation which is something no developer likes doing. I find it easy to code on this platform as I can focus solely on the logic of the project rather than worry about imports or platform compatibility. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "4.5",
+    "author": "Verified User in Computer Software",
+    "date": "2025-03-20"
+  },
+  {
+    "title": "\"Visual Studio: A User-Friendly Coding Tool\"",
+    "body": "5/5What do you like best about Visual Studio?I love how visual studio makes it easy to find and fix mistakes in code. Its simple design and support for many  programming languages help developers , whether they are beginners or experts,work faster and more efficiently. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?I find visual studio can be slow to open and use a ot of computer power,which can be annoying. Its comprehensive toolset requires some time to explore and master,which can be a learning opportunity for those eager to expand their skills. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Visual studio is developer's smart companion that catches coding errors, organized projects , and speed up development. It's like having an expert assistant who helps write better code,find problems quickly, and team work smoother- all in one place. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "Navneet P.",
+    "date": "2025-02-19"
+  },
+  {
+    "title": "\"Best For Coding\"",
+    "body": "5/5What do you like best about Visual Studio?All-in-One Tool: It has everything you need for coding, testing, and sharing your work.\nSmart Help: Features like IntelliSense make coding faster and easier by giving suggestions as you type.\nCustomizable: You can add extra tools and features to match your needs.\nWorks with Other Tools: It connects well with Git, Azure, and other popular tools.\nBuild for Any Platform: You can create apps for Windows, web, mobile, and more in one place Review collected by and hosted on G2.com.What do you dislike about Visual Studio?Heavy for Small Projects: For simple tasks, it might feel like too much.\nLarge Size: It takes a lot of space on your computer, which can be a problem for some users. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Simplifies Coding: It provides features like IntelliSense and auto-complete, helping write code faster and with fewer errors.\nDebugging Made Easy: The built-in debugger helps find and fix problems in your code quickly.\nTeam Collaboration: It works well with Git, making it easy to share and manage code with others. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "Mayurika K.",
+    "date": "2024-12-10"
+  },
+  {
+    "title": "\"i am using vs code from 1 year. it is the best code editor.my experience was good.\"",
+    "body": "5/5What do you like best about Visual Studio?1. very easy to use. like in other code editors i have to manually save file before running the code. but vs code auto save feature. which makes it very convenient for for regular use.\n2. i use it everyday.\n\n3.the best feature is themes. it provides  a large range of cool themes. that makes a coding environment and motivate to work more. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?sometimes it generates wrong output. but this problem solves after compiling again.\ni have never use its customer support. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?the main problem while doing work is to write every single line, boring working environment and auto save problem. \nbut vs code provides a lot of extentions and auto full fill the line. and provides a real cool coding environment with very attractive themes. and also provide auto save feature before compiling. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "Vaibhav S.",
+    "date": "2025-01-10"
+  },
+  {
+    "title": "\"Good IDE for .NET development as well as good for overall software development in the MS ecosystem\"",
+    "body": "3.5/5What do you like best about Visual Studio?Works well for .NET and other Microsoft-based tools and services. Integrates well with things like Azure DevOps and Umbraco and etc. The updates are regular and the tool/suite is maintained well. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?Sometimes, installing and maintaining extensions can be a bit tricky. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?The problems it is helping us solve are mostly development needs and maintenance needs for keeping our website presence and codebase as is as well as improving it and working on it. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "3.5",
+    "author": "Verified User in Consumer Services",
+    "date": "2025-07-21"
+  },
+  {
+    "title": "\"Visual studio review\"",
+    "body": "4.5/5What do you like best about Visual Studio?IDE gives all kind of functionalities for everything like all types of languages, its way more better than intellij and pycharm Review collected by and hosted on G2.com.What do you dislike about Visual Studio?Visual studio settings can be improved a bit more Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?In a day to day Software engineer life it becomes a very important thing, it helps to write code easily and IDE UI is very simpler to understand for noobs also. Also IDE is lightweight so its very good Review collected by and hosted on G2.com.\nShow More",
+    "rating": "4.5",
+    "author": "Karna V.",
+    "date": "2025-07-29"
+  },
+  {
+    "title": "\"Visual Studio code is my best app to code as a programmer\"",
+    "body": "5/5What do you like best about Visual Studio?Smooth and good for coding in programming language in PHP and for databases connection. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?Maybe when I'm using this app for my low spects can't code faster but for now i have a pc and laptop can code faster just because you need to upgrade your pc to code smooth in all programming language Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Maybe the problem is can't meet requirement when you have  no money to buy laptop to good  and smooth to coding. Then when i have trouble to debugging in programming i just checking all my codes per line we know this app have a AI now like intellisence to provide code but sometime the code is not code but the benifits for me is I know what problem to my program Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "rafael s.",
+    "date": "2025-01-21"
+  },
+  {
+    "title": "\"Experience and suggestions\"",
+    "body": "4/5What do you like best about Visual Studio?I like visual studio as a software developer. Specially Git and Plugins section.\nThey provide different git section and show file changes. I am using so many IDE's but Git section is amazing and user friendly in visual studio. If they can do so some changes in UI then it looks more attractive.\nFor plugins section important thing is that you just install any plugin and enjoy their functionality for any development language. Every language have different plugin as per developer need. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?1. Complex to change theme, Font, Style. I think they can give one section in left or right side and provide all important settings on that so user can easily navigate and change any setting easily currently its to complex.\n2. They can provide option to add git account from left side git section so user can easily add account.\n3. In git section they can provide more options icons like cherrt pick or create patches. So as per developer its easy and easly use that functionality Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?1. They can improve Setting section and provide main settings like font, color, theme changes section in home screen.\n2. They can improve git support and update GUI with new features like Git Accounts, Cherry Pick Icon, Patch Icon etc. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "4.0",
+    "author": "Mukesh K.",
+    "date": "2024-11-30"
+  },
+  {
+    "title": "\"Best IDE in the market for most tech stack, although getting behind on AI driven development.\"",
+    "body": "4.5/5What do you like best about Visual Studio?I'm a software dev and VSCode has become an indispensable part of my workflow. What I like most? everything. Its ability to handle large projects with countless files while maintaining exceptional performance. The editor remains responsive, even when working on monolith projects with complex dependencies or giant codebases. The mini-map is nice, so if you have been a fan of Sublime then you won't be lost. Also, with the seamless integration of keyboard shortcuts, you can become incredibly efficient by never lifting fingers from your keyboard.\n\nBut truly, what I like most about VSCode is that there seems to be an extension for everything, you can customize your environment tailored to your every need. Extensions like GitLens make version control straightforward by providing visual indicators for changes, commit history, and author insights. AI tools, such as Copilot, take productivity to another level by suggesting code snippets and solutions as you type, or AmazonQ help integrate cloud-specific solutions, and code generators. But also, there is a small extension for any productivity improvement you can imagine, few things I have installed: a color picker while coding CSS, a live preview for frontend projects, batch file renames, char count, and also several code snippets and boilerplate generators for HTML, Ruby, Python, etc. I have seach and found even a SUM extension for selected numbers on a file... \n\nFinally, one thing I really like about VSCode is how it works with modern frameworks and technologies. It provides excellent support for building apps with Flutter, React, and Ionic, among many others. From setting up a project to debugging and testing, I can control everything directly from the editor. Whether it’s running a Flutter emulator, managing a React build process, or deploying an Ionic app, VSCode handles it all seamlessly.\nIts integrated a terminal, debugger, and task runner.\n\nSummary, it is a powerhouse for developers, and you will enjoy working on your products. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?I've been testing latetly the AI Copilot extensions and all Copilot recent releases for VSCode. I would had loved if it was fully integrated with the IDE, currently only supports the file you have openned, Copilot will give you great code completitions suggestions, but it lacks context on your entire openned project. At this point developers are moving towars an AI asisted development environment, so IDEs such as Cursor and Windsurf that are actually based on VSCode are having such a great adoption and a huge advantage than VSCode Today. Although I think VSCode is moving to the right direction, I think it is moving slowly considering Copilot is also from Microsoft.\n\nI love how you can extend VSCode and pretty much customize it for your preferable development environment, it is a manual that by now it should have been part of a sign up onBoarding wizard, the IDE asking you what tech stack you use and/or pick it automatically from your openned project and automatically install the extensions you need. It lacks that level of sofisticated recommendation. And, if you check the actual Recommended Extensions most cases are not even close to what we need on a project. Definitely I do not like how the actual Extensions recommendations works.\n\nOne other thing I don't like much is how complex configurations are required for native mobile developmebt, I would still recommend Xcode and Android Studio for native Swift and Kotlin. Example, for native development you don't have yet a way to build the apps and run infrom on the simulator directly from VSCode. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?It simplifies development, version control and debugging. With built-in tools and extensions like GitLens and Copilot it boosts productivity and allows writing code and deploying apps—in one single integrated environment.\nWe use it for app development projects such as Backend projects with Ruby on Rails, NodeJS, or PHP as well as Frontend with ReactJs, Vue, Angular, and mobile projects such as Flutter or React Native projects, using the extensions for each of those tech stack helps me and our developers to perform better. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "4.5",
+    "author": "Mario T.",
+    "date": "2024-11-18"
+  },
+  {
+    "title": "\"VSCode Review\"",
+    "body": "5/5What do you like best about Visual Studio?Very good interface and support for many languages.\nAuto suggestion and linting and prettier.\nMany more estensions that integrates our requirements.\nGit automatic commit and push feature. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?Nothing as i have experienced only sometimes the autosuggestion Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Integrating with all the external things like git docker and all that makes our life easier so that we don't need to go to another command line\nprettier and lint Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "Verified User in Financial Services",
+    "date": "2025-07-25"
+  },
+  {
+    "title": "\"If you're a coder, then this is for you.\"",
+    "body": "5/5What do you like best about Visual Studio?Visual Studio provides a major library of various programming languages to run code in your system with an ease of implementation for daily usage. If you are a coder and you are using this, you can understand how important it is for coding and make things easy to understand. I'm a MERN stack developer, and I've been using it for the last four years. Over these years, I've had an incredible journey and experience with it. It makes things easier, also its easy to use and its extensions are on another level. I generally recommend this, whether you're a coder or a non-coder.\nIt's also easy to use and comes with great customer support. Plus, it's simple for new users to understand, making it a great option for beginners as well.\nAlso we can integrate this with other softwares with easy to use process. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?Currently, I don't have any dislikes for this product. For now, sometimes when new versions come out and I change file names, it gets stuck and doesn't update the filename. However, this is a minor issue and not something as I consider it as dislike, as it will likely be improved soon because its had a good service support. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Currently, its provide most benefits technologies I use. Its major advantage is that we can collaborate openly with team members and work on the same projects simultaneously with no problems in team terms of project structure coordination and project management tasks. \nAdditionally, its extensions help us work efficiently and smartly also improves time complexity. It is also easy for new users to learn and implement. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "Rohit K.",
+    "date": "2024-10-15"
+  },
+  {
+    "title": "\"Visual Studio: \"The all in one development solution \"\"",
+    "body": "4.5/5What do you like best about Visual Studio?Visual Studio provides an all in one environment for development, debugging and testing. It makes coding much smoother and easy to implement a project to start development . The support of IntelliSense feature makes coding faster and more accurate by providing suggestions and auto-completions and so I use it more frequently. The debugger Customer support in Visual Studio is powerful and speeds up the development process. With Visual Studio, we can develop for multiple platforms, including Windows, Linux, macOS, mobile platforms which makes easy for us. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?Visual Studio can be quite heavy on system resources, especially on older powerful machines. It slow down or cause the performance issues with large projects. As it's features are powerful, it can take time to learn all the capabilities for new developers. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Visual Studio solves several key problems like efficient project management, complex debugging and multiplatform development. It consolidates everything I need in one place from code editing to testing and deployment by eleminating the need for multiple tools. Here the debugging features help me quickly indentify the issues and save the time during the development. As it supports the cross platform feature, it allow me to develop for various environments without switching between different IDEs. Overall, Visual Studio ease my workflow, boosts efficiency and reduce the error in complex coding tasks which benefits the speed and quality of the work. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "4.5",
+    "author": "Verified User in Computer Software",
+    "date": "2025-04-08"
+  },
+  {
+    "title": "\"Best for beginner level coding\"",
+    "body": "5/5What do you like best about Visual Studio?Best for implementation for beginner level coder to start there official website have many easy features also easy to use. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?Sometimes the extension is not working properly. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Visual studio helps me to collaborate with the teammates. I can share my code whenever i stuck in between any development process it help me to share with my teammates or senior for solving the issue in my development process. Also so many extensions that helps my coding quick and easy. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "Niheera S.",
+    "date": "2025-03-22"
+  },
+  {
+    "title": "\"Why developers love visual studio\"",
+    "body": "4/5What do you like best about Visual Studio?Visual Studio packs everything into one IDE: coding, debugging, testing, profiling, Git integration, cloud deployment (Azure), database tools, and more. No need to juggle 10 different apps. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?Removing unused components feels like defusing a bomb. Accidentally clicking the wrong arrow collapses your entire project tree.Need to edit a single HTML file? VS feels like using a rocket launcher to kill a mosquito. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?the first problem is managing complex projects. Developers working on large codebases need an integrated environment. Then, debugging is a big pain point. Visual Studio has strong debugging tools. Also, language and framework support—like .NET, C++, which are areas where VS excels. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "4.0",
+    "author": "Bineet C.",
+    "date": "2025-01-28"
+  },
+  {
+    "title": "\"Visual Studio Review\"",
+    "body": "5/5What do you like best about Visual Studio?visible Studio is a first-rate tool for coding in languages like C#, C++, and Python, in addition to for constructing web and cellular apps. Its first-rate characteristic, IntelliSense, allows make coding less difficult by presenting recommendations and spotting mistakes. It also has sturdy gear for finding and solving issues for your code. visible Studio works nicely with Git for coping with code versions and Azure for cloud development. With Xamarin and .net core, you can construct apps for exceptional structures from a single codebase. at the same time as it could be complicated for a few customers, it's favored by way of professionals for its great capabilities like unit testing and stay percentage for group collaboration. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?Visual Studio is indeed an advanced tool, however, it comes with some disadvantages. First of all, it is heavy in resources and therefore, its performance is poor on low power devices. Such a range of products can be confusing for new users, and it is expensive for professionals and businesses as well. Added to these drawbacks are high consumption of resources by the applications, long load-up times and sometimes stability issues. Additionally, the Mac version is missing a lot of features that are present in the Windows version, thus limiting its capabilities significantly on non-Windows systems. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?It's help to do the development easily and also supports multiple language and framework which make developer life easy. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "Mahipal S.",
+    "date": "2024-10-17"
+  },
+  {
+    "title": "\"Great Tool VS\"",
+    "body": "5/5What do you like best about Visual Studio?It's a great tools for coding. Just like all in one platform. User friendly experience too. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?This is nothing to say just it can restart or start the tools with less time. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?It has coding platform and the terminal features along with Git clone option. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "Shawin  K.",
+    "date": "2025-08-03"
+  },
+  {
+    "title": "\"Great development tool with advance feature\"",
+    "body": "4.5/5What do you like best about Visual Studio?Visual Studio widely used for developers for coding, debugging and testing. I love it's advance fetaure like intelliSence, poweful debugging tools and easily integration with version contol systems. Furthermore, the  advanced library support and integration with Azure and GitHub make developement smoother and easy Review collected by and hosted on G2.com.What do you dislike about Visual Studio?Sometimes, Visual Studio can be slow to load while working on the large projects, and it can consume a lot of system resources. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Visual Studio offers fetaures like IntelliSense and automatic code completion, which speed up the coding process, reduce errors and allowing developers to quickly identify and fix issues. It integrates seamlessly with Git and other version control systems. It supports building apps for different platforms like web and mobile. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "4.5",
+    "author": "khushbu s.",
+    "date": "2025-03-10"
+  },
+  {
+    "title": "\"I am very satisfied with the capabilities of Visual Studio, I can code any software.\"",
+    "body": "5/5What do you like best about Visual Studio?The most advantageous thing is that it is a product of Microsoft and the support is incredible. I love how it is organized into different building tools I use and find it very comfortable adapting to and using often. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?Perhaps, the fact that sometimes it glitches on Ubuntu Linux Systems, and the menubar text becomes impossible to read. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Any sort of complex algorithmical problems related to software development, the context highlighting and the debugging feature is so easy to use and adapt to.  I love using it. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "Evgeniy P.",
+    "date": "2025-02-13"
+  },
+  {
+    "title": "\"Review for VS Code\"",
+    "body": "3.5/5What do you like best about Visual Studio?Ease of use , could use many extensions. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?Many of the features are paid, like generate AI commit. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?It gives a platform where i can code , and have multiple languages in one place. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "3.5",
+    "author": "Suryakant P.",
+    "date": "2025-05-26"
+  },
+  {
+    "title": "\"Visual Studio Review\"",
+    "body": "3.5/5What do you like best about Visual Studio?Powerful Intelligence, \nIntegrated Debugging,\nGraphical User Interface for Windows Forms and WPF,\nRich Tooling for .NET.\nPerformance Profiler,\nGIT Integration Review collected by and hosted on G2.com.What do you dislike about Visual Studio?Heavy & Slow,\nLarge Installation Size,\nPricing,\nUpdates & Restart Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Easy in Developing the wpf,\nIntelliSense,\nIntegrated Debugging Review collected by and hosted on G2.com.\nShow More",
+    "rating": "3.5",
+    "author": "gopal s.",
+    "date": "2025-07-30"
+  },
+  {
+    "title": "\"Usage for Visual Studio\"",
+    "body": "3.5/5What do you like best about Visual Studio?What I like best about Visual Studio is its powerful and comprehensive set of tools for software development. The integrated development environment (IDE) is highly intuitive, with features like IntelliSense for smart code completion, robust debugging tools, and seamless integration with version control systems like Git. It supports multiple programming languages and frameworks, making it versatile for various projects. Additionally, the ability to extend its functionality with plugins and extensions enhances productivity significantly. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?One thing I dislike about Visual Studio is that it can be resource-intensive, especially when working on large projects, which sometimes leads to slower performance or longer load times. Additionally, while the interface is feature-rich, it can feel overwhelming for beginners due to its complexity and the number of options available. The frequent updates, though beneficial, can occasionally cause compatibility issues with extensions or disrupt workflows. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Visual Studio can help you be more productive by: \nUsing keyboard shortcuts \nUsing extensions like Visual Assist, which can help with refactoring, navigation, code generation, and more \nUsing advanced navigation features to quickly go to any file, method, reference, or code symbol Review collected by and hosted on G2.com.\nShow More",
+    "rating": "3.5",
+    "author": "Thiri A.",
+    "date": "2024-12-10"
+  },
+  {
+    "title": "\"GOOD AND USER FRIENDLY APP\"",
+    "body": "5/5What do you like best about Visual Studio?IntelliSense is a lifesaver—super accurate and speeds up coding. Debugging tools are top-notch, and the ecosystem is massive. Love the seamless Git integration too! Review collected by and hosted on G2.com.What do you dislike about Visual Studio?Can be a resource hog—slows down on larger projects. Startup time feels sluggish, and the sheer number of features can be overwhelming for beginners. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Simplifies complex coding with robust debugging and IntelliSense. Great for large projects—streamlines workflows and boosts productivity. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "Ahamed H.",
+    "date": "2025-03-18"
+  },
+  {
+    "title": "\"Visual Studio\"",
+    "body": "5/5What do you like best about Visual Studio?Visual Studio is a powerful integrated development environment (IDE) that offers a wide range of features and tools for developers. Ease of Use  and Implementation. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?Long Installation and Update Times of Visual Studio. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Visual Studio addresses several challenges faced by developers and provides numerous benefits that enhance productivity and streamline the development process Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "Priyanka M.",
+    "date": "2025-04-04"
+  },
+  {
+    "title": "\"Visual Studio for Developments\"",
+    "body": "5/5What do you like best about Visual Studio?Visual Studio can provide good experience to develop tools for example in C# Review collected by and hosted on G2.com.What do you dislike about Visual Studio?For example for Visual Studio is needed to have a licensed, there is a visual studio Code, but this IDE is for other languages program Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?About VS that problems are solving is about the intelligence, this tools is very useful and needs to get some corrections, and about the .net framework Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "Hector C.",
+    "date": "2025-05-26"
+  },
+  {
+    "title": "\"\"Tool For Developing Websites\"\"",
+    "body": "4/5What do you like best about Visual Studio?What I like most about Visual Studio is how easily we can develop websites using Studio Code. It also Supports Programming in multiple Languages, allowing us to create websites based on our interests and code seamlessly. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?While creating a website using Visual Studio, the numerous features available for website development can be confusing for junior developers or freshers. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Visual Studio is great for developing basic websites in an easy and efficient way. Plus, a single Visual Studio application can be used in many different ways. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "4.0",
+    "author": "RAVALI O.",
+    "date": "2025-01-27"
+  },
+  {
+    "title": "\"Its easy to use a a studio where i feel like a platform where compilation is easy .\"",
+    "body": "4.5/5What do you like best about Visual Studio?Its easy to handel and understand all the redirection and compilation. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?It can be more vast in terms of features Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?It is good to use as it have basic featires to compile the code and understand the redirection Review collected by and hosted on G2.com.\nShow More",
+    "rating": "4.5",
+    "author": "Vaibhav S.",
+    "date": "2025-07-15"
+  },
+  {
+    "title": "\"A software to do code in easy way with cool UI with great compilations\"",
+    "body": "4.5/5What do you like best about Visual Studio?I can do code in any language and also there is so many extensions to make my coding easy and fast.It makes my implementation understandable and shows errors and warnings before compiling even using extensions.Now they have added llm models options as well to resolve errors and makes development easy .There is easy to integrate with github and update the code in no time. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?Sometimes we get build tool issue in some compilation in visual studio.So when we tried to customer support it took little time in my case but at the end that issue got resolved.Still I choose this daily to do code no matter in which languauge. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?It is solving to do code in easy and fast way.there is a lots of compilation services and integrations like github . There is so many extensions of every languages.These extensions make my coding skills fast and easy.It gives me warnings and errors  while doing code. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "4.5",
+    "author": "Sahil K.",
+    "date": "2024-11-28"
+  },
+  {
+    "title": "\"Powerful IDE with Comprehensive Tools\"",
+    "body": "4.5/5What do you like best about Visual Studio?The advanced integrated development environment (IDE) in Visual Studio includes strong debugging tools, code completion with IntelliSense, and seamless Git integration. It is immensely helpful to be able to handle complicated projects involving different programming languages and frameworks in one location. Customization to meet particular development demands is also possible because of its extensive library of extensions. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?When working on huge projects, it may cause performance concerns and be slow to load, especially on less powerful devices. Furthermore, because of its vast feature set, the initial learning curve for new users may be quite steep. Enhancing the user experience could involve making the user interface simpler or providing more guided training. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Several programming languages and frameworks are supported in an all-in-one environment with Visual Studio, which streamlines the development process. I gain from it since it expedites processes like version control, testing, and debugging, which boost output and cut down on development time. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "4.5",
+    "author": "Suman H.",
+    "date": "2024-09-03"
+  },
+  {
+    "title": "\"Great tool for building Desktop Windows specific apps\"",
+    "body": "4.5/5What do you like best about Visual Studio?The IDE is a significantly improved interface compared to before. It has helped me complete various projects. I first used this IDE for my final year project. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?Well, a dislike of Visual Studio is very rare—nothing for this from my side. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?It greatly supports its languages from Microsoft like C#, .NET, etc, so it's very user-friendly for specific for these languages. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "4.5",
+    "author": "Verified User in Education Management",
+    "date": "2025-07-28"
+  },
+  {
+    "title": "\"Code Editor with a lot of features\"",
+    "body": "5/5What do you like best about Visual Studio?The clear User-Interface. Visual Studio has a clear UI which makes it easier for rookie as well as pros to develop products easily.\nIt also has a plug-in eco-system where we can have tons of plugins which make coding very easy.\nIt can be easily integrated with git and provide an ease of access to git repositories. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?Performance detoriates on large projects.\nMultiple extensions become overwhelming . One extension also bugs the other. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?While working on multiple languages we don't need to switch IDE's. Visual Studio provides support for multiple languages at one place. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "Abhijeet A.",
+    "date": "2024-12-15"
+  },
+  {
+    "title": "\"Visual Studio\"",
+    "body": "4.5/5What do you like best about Visual Studio?I use Visual Studio everyday for coding, debugging. The extensibility and wide range of plugins and extensions to customize the development experience is very key to me. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?While Visual Studio is available for macOS, it is not as feature-rich as the Windows version. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Visual Studio is intrumental in code management, integrated git support, built-in debugger, and a vast marketplace of extensions available lets developers customize their workflow, add integrations, and enhance productivity in today's times. Visual Studio has made my life easier in maintaining multiple projects/repos, streamlines my workflow through Visual Studio workspace while increasing my efficiency, and delivering high-quality software faster. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "4.5",
+    "author": "Sudeshna B.",
+    "date": "2025-02-10"
+  },
+  {
+    "title": "\"Complete IDE To Develop Websites, Apps, And Servers\"",
+    "body": "4.5/5What do you like best about Visual Studio?Software development is all included in an IDE known as Visual Studio, to provide all the tools necessary for development. It is the best product of Microsoft, available freely, and one can build very pleasing servers, apps, and websites with it. In compiling the program, it's nice to use the syntax checker when coding. Another one is the autoformatting of lines and text. Review collected by and hosted on G2.com.What do you dislike about Visual Studio?There are no words to describe how everything in this place is good. Everything is operating flawlessly. PC users with comparatively lower system capacities might face a slight delay due to its size. Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?With the help of Visual Studio, I develop software solutions that are necessary for the work of my clients every day. The code highlighters are wonderful while working on different platform languages and I am using them daily. It serves as a prompt whenever I am lost and need new code to generate by providing suggestions. It provides dozens of features that help in managing a project in terms of collaboration, problem-solving, and even development. Review collected by and hosted on G2.com.\nShow More",
+    "rating": "4.5",
+    "author": "Rohit S.",
+    "date": "2024-08-20"
+  },
+  {
+    "title": "\"I use it to access DBs and write sqls\"",
+    "body": "5/5What do you like best about Visual Studio?One tool with a lot of apps to access different DBs Review collected by and hosted on G2.com.What do you dislike about Visual Studio?The interface can be more friendly for sure Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?Different DBs access for one place Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "Hristo E.",
+    "date": "2025-07-14"
+  },
+  {
+    "title": "\"Visual studio review\"",
+    "body": "5/5What do you like best about Visual Studio?1. Powerful debugging\n2. Coding suggestions \n3. IDE Review collected by and hosted on G2.com.What do you dislike about Visual Studio?1. Long installation time\n2. Strong learning curve and complex for beginners \n3. Resource heavy Review collected by and hosted on G2.com.What problems is Visual Studio solving and how is that benefiting you?I used have multiple applications for coding and debugging however, Visual Studio has combined it all in one Review collected by and hosted on G2.com.\nShow More",
+    "rating": "5.0",
+    "author": "Wonu O.",
+    "date": "2025-06-11"
+  }
+]
