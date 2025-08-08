@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>G2 Review Search</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body {
+      background: linear-gradient(135deg, #FFD200, #F7971E, #D62246, #6E45E2, #00F2FE);
+      background-size: 500% 500%;
+      animation: gradientBG 15s ease infinite;
+    }
+    @keyframes gradientBG {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+  </style>
+</head>
+<body class="min-h-screen flex items-center justify-center p-4">
+  <div class="relative w-full max-w-md">
+    <!-- Search Panel -->
+    <div class="bg-white shadow-xl rounded-3xl p-8">
+      <h1 class="text-3xl font-semibold text-gray-800 text-center">G2 Review Search</h1>
+      <div class="mt-6 space-y-4">
+        <div class="flex">
+          <input
+            id="searchInput"
+            type="text"
+            placeholder="Enter company slug e.g. jira"
+            class="flex-1 text-gray-700 placeholder-gray-400 bg-gray-100 border border-gray-300 rounded-lg px-4 py-3 focus:outline-none focus:ring-2 focus:ring-blue-500" />
+          <button
+            onclick="loadReviews()"
+            class="ml-3 bg-blue-600 text-white font-medium px-5 py-3 rounded-lg hover:bg-blue-700 transition">
+            Search
+          </button>
+        </div>
+        <div class="flex justify-center gap-4">
+          <button onclick="fastSearch('jira')" class="text-blue-600 hover:underline">Jira</button>
+          <button onclick="fastSearch('facebook')" class="text-blue-600 hover:underline">Facebook</button>
+        </div>
+      </div>
+    </div>
+    <!-- Reviews Container Wrapper with custom shape -->
+    <div id="reviewsWrapper" class="mt-8 p-6 bg-white/30 backdrop-blur-md rounded-[40px_10px_40px_10px]">
+      <div id="reviewsContainer" class="space-y-4"></div>
+    </div>
+  </div>
+
+  <script>
+    function fastSearch(slug) {
+      document.getElementById('searchInput').value = slug;
+      loadReviews();
+    }
+
+    async function loadReviews() {
+      const slug = document
+        .getElementById('searchInput')
+        .value.toLowerCase()
+        .trim();
+      const container = document.getElementById('reviewsContainer');
+      container.innerHTML = '';
+
+      try {
+        const response = await fetch(`${slug}_g2_reviews.json`);
+        const reviews = await response.json();
+
+        if (!reviews.length) {
+          container.innerHTML = `<p class='text-center text-gray-700'>No reviews found.</p>`;
+          return;
+        }
+
+        reviews.slice(0, 5).forEach((review) => {
+          const card = document.createElement('div');
+          card.className =
+            'bg-white p-5 shadow-md hover:shadow-lg transition transform hover:scale-105 rounded-tr-3xl rounded-bl-3xl';
+          card.innerHTML = `
+            <div class="flex justify-between items-center mb-1">
+              <h2 class="text-lg font-medium text-gray-800">${review.title}</h2>
+              <span class="text-sm text-gray-600">⭐ ${review.rating}</span>
+            </div>
+            <p class="text-gray-600 mb-2">${review.body}</p>
+            <p class="text-xs text-gray-400">By ${review.author} on ${review.date}</p>
+          `;
+          container.appendChild(card);
+        });
+      } catch (error) {
+        container.innerHTML = `<p class='text-center text-red-500'>Failed to load reviews.</p>`;
+      }
+    }
+  </script>
+</body>
+</html>
